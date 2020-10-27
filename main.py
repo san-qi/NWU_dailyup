@@ -8,8 +8,7 @@ import re
 import requests
 import sys
 
-#__DEBUG = False     # or 'True'
-__DEBUG = True
+__DEBUG = False     # or 'True'
 
 
 def report(name, passwd, report_data):
