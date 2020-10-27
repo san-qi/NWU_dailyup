@@ -12,6 +12,7 @@
   3. data.json:    保存要提交的个人信息,以及一些额外信息(注意，该文件中的地址仅适用于西北大学长安校区的用户，或通过修改该文件中的相应msg项来生效,其他人慎用)
 
 ## 使用方式:
+  0. 安装依赖, pip install -r requirements.txt
   1. 如果是西北大学长安校区的用户，则不需要管data.json的msg项
   2. 将data.json中的user项添加上自己的学号与密码，注意要按照json文件格式
   3. 最后使用crontab命令实现每日定时调用。调用形式为 py main.py dir, 其中dir为该项目的所在位置。
