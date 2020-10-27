@@ -13,6 +13,7 @@
     "geo_api_info": {"info": "SUCCESS", "pois": [], "type": "complete", "roads": [], "status": 1, "crosses": [], "message": "Get ipLocation failed.Get geolocation success.Convert Success.Get address success.", "accuracy": 75, "position": {"Q": 34.14249186198, "R": 108.876975640191, "lat": 34.142492, "lng": 108.876976}, "isConverted": true, "location_type": "html5", "addressComponent": {"city": "西安市", "adcode": "610116", "street": "文苑南路", "country": "中国", "building": "", "citycode": "029", "district": "长安区", "province": "陕西省", "township": "郭杜街道", "buildingType": "", "neighborhood": "", "streetNumber": "11号", "businessAreas": [], "neighborhoodType": ""}, "formattedAddress": "陕西省西安市长安区郭杜街道西北大学南校区学生公寓3号楼西北大学长安校区"}
     },
 "user": {
-    "name": "password"
+    "student_id1": "password1",
+    "student_id2": "password2"
     }
 }
